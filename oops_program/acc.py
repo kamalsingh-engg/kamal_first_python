@@ -7,7 +7,7 @@ class account:
 
 
 
-    def deposit(self,amount):
+    def deposite(self,amount):
         self.balance =self.balance + amount
 
     def withdraw(self,amount):
